@@ -1,7 +1,7 @@
 # One Dark Windows Terminal
 One Dark Color Scheme for Windows Terminal inspired by Atom's One Dark and One Light theme.
 
-![screenshot](https://raw.githubusercontent.com/yosukes-dev/one-dark-windowsterminal/master/img/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/yosukes-dev/one-dark-windows-terminal/master/img/screenshot.png)
 
 ### How To Use
 #### 1. Open Settings(profiles.json)
